@@ -905,37 +905,45 @@ const Diagram = () => {
               window
             </tspan>
           </text>
-          <text
-            x="6.65"
-            y="136.64"
-            fill="#2c89a0"
-            fontFamily="Calibri"
-            fontSize="4.233"
-            fontWeight="bold"
-            solid-color="#000000"
-            stroke="red"
-            strokeDashoffset={10}
-            strokeLinecap="square"
-            strokeLinejoin="round"
-            strokeWidth=".265"
-            style={{
-              isolation: "auto",
-              lineHeight: "125%",
-              mixBlendMode: "normal"
-            }}
-            paintOrder="markers stroke fill"
-            transform="translate(-5.879 -43.6)"
+
+          <a
+            xlinkHref="https://www.travisperkins.co.uk/Structural-Hardwood-Plywood-2440mm-x-1220mm-x-18mm/p/767336"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            <tspan
+            <text
               x="6.65"
               y="136.64"
-              fontSize="2.822"
-              fontWeight="normal"
-              stroke="none"
+              fill="#2c89a0"
+              fontFamily="Calibri"
+              fontSize="4.233"
+              fontWeight="bold"
+              solid-color="#000000"
+              stroke="red"
+              strokeDashoffset={10}
+              strokeLinecap="square"
+              strokeLinejoin="round"
+              strokeWidth=".265"
+              style={{
+                isolation: "auto",
+                lineHeight: "125%",
+                mixBlendMode: "normal"
+              }}
+              paintOrder="markers stroke fill"
+              transform="translate(-5.879 -43.6)"
             >
-              https://www.travisperkins.co.uk/Structural-Hardwood-Plywood-2440mm-x-1220mm-x-18mm/p/767336
-            </tspan>
-          </text>
+              <tspan
+                x="6.65"
+                y="136.64"
+                fontSize="2.822"
+                fontWeight="normal"
+                stroke="none"
+              >
+                https://www.travisperkins.co.uk/Structural-Hardwood-Plywood-2440mm-x-1220mm-x-18mm/p/767336
+              </tspan>
+            </text>
+          </a>
+
           <text
             x="6.66"
             y="144.17"
@@ -958,37 +966,45 @@ const Diagram = () => {
               Size 38mm x 63mm) - £8.89 each
             </tspan>
           </text>
-          <text
-            x="6.65"
-            y="147.556"
-            fill="#2c89a0"
-            fontFamily="Calibri"
-            fontSize="4.233"
-            fontWeight="bold"
-            solid-color="#000000"
-            stroke="red"
-            strokeDashoffset={10}
-            strokeLinecap="square"
-            strokeLinejoin="round"
-            strokeWidth=".265"
-            style={{
-              isolation: "auto",
-              lineHeight: "125%",
-              mixBlendMode: "normal"
-            }}
-            paintOrder="markers stroke fill"
-            transform="translate(-5.879 -43.6)"
+
+          <a
+            xlinkHref="https://www.travisperkins.co.uk/CLS-Profile-Studwork+Framing-Timber-50mm-x-75mm-%28Finished-Size-38mm-x-63mm%29/p/9000096435"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            <tspan
+            <text
               x="6.65"
               y="147.556"
-              fontSize="2.822"
-              fontWeight="normal"
-              stroke="none"
+              fill="#2c89a0"
+              fontFamily="Calibri"
+              fontSize="4.233"
+              fontWeight="bold"
+              solid-color="#000000"
+              stroke="red"
+              strokeDashoffset={10}
+              strokeLinecap="square"
+              strokeLinejoin="round"
+              strokeWidth=".265"
+              style={{
+                isolation: "auto",
+                lineHeight: "125%",
+                mixBlendMode: "normal"
+              }}
+              paintOrder="markers stroke fill"
+              transform="translate(-5.879 -43.6)"
             >
-              https://www.travisperkins.co.uk/CLS-Profile-Studwork+Framing-Timber-50mm-x-75mm-%28Finished-Size-38mm-x-63mm%29/p/9000096435
-            </tspan>
-          </text>
+              <tspan
+                x="6.65"
+                y="147.556"
+                fontSize="2.822"
+                fontWeight="normal"
+                stroke="none"
+              >
+                https://www.travisperkins.co.uk/CLS-Profile-Studwork+Framing-Timber-50mm-x-75mm-%28Finished-Size-38mm-x-63mm%29/p/9000096435
+              </tspan>
+            </text>
+          </a>
+
           <text
             x="6.594"
             y="151.571"
@@ -2788,37 +2804,44 @@ const Diagram = () => {
             paintOrder="markers stroke fill"
             transform="translate(-5.879 -43.6)"
           />
-          <text
-            x="6.65"
-            y="163.18"
-            fill="#2c89a0"
-            fontFamily="Calibri"
-            fontSize="4.233"
-            fontWeight="bold"
-            solid-color="#000000"
-            stroke="red"
-            strokeDashoffset={10}
-            strokeLinecap="square"
-            strokeLinejoin="round"
-            strokeWidth=".265"
-            style={{
-              isolation: "auto",
-              lineHeight: "125%",
-              mixBlendMode: "normal"
-            }}
-            paintOrder="markers stroke fill"
-            transform="translate(-5.879 -43.6)"
+          <a
+            xlinkHref="https://www.travisperkins.co.uk/Nail-Plate-Fastener-Galvanised-40mm-x-120mm/p/536450"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            <tspan
+            <text
               x="6.65"
               y="163.18"
-              fontSize="2.822"
-              fontWeight="normal"
-              stroke="none"
+              fill="#2c89a0"
+              fontFamily="Calibri"
+              fontSize="4.233"
+              fontWeight="bold"
+              solid-color="#000000"
+              stroke="red"
+              strokeDashoffset={10}
+              strokeLinecap="square"
+              strokeLinejoin="round"
+              strokeWidth=".265"
+              style={{
+                isolation: "auto",
+                lineHeight: "125%",
+                mixBlendMode: "normal"
+              }}
+              paintOrder="markers stroke fill"
+              transform="translate(-5.879 -43.6)"
             >
-              https://www.travisperkins.co.uk/Nail-Plate-Fastener-Galvanised-40mm-x-120mm/p/536450
-            </tspan>
-          </text>
+              <tspan
+                x="6.65"
+                y="163.18"
+                fontSize="2.822"
+                fontWeight="normal"
+                stroke="none"
+              >
+                https://www.travisperkins.co.uk/Nail-Plate-Fastener-Galvanised-40mm-x-120mm/p/536450
+              </tspan>
+            </text>
+          </a>
+
           <text
             x="6.505"
             y="159.175"
